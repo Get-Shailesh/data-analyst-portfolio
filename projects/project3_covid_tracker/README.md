@@ -45,3 +45,5 @@ project3_covid_tracker/
 2. Daily deaths — 7-day rolling average
 3. Total 2022 cases comparison (horizontal bar)
 4. Vaccination rate per 100 population
+
+![COVID Tracker](covid_tracker.png)

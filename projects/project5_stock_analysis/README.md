@@ -42,3 +42,5 @@ project5_stock_analysis/
 2. Daily returns distribution (violin plot)
 3. Annualized volatility vs Sharpe ratio
 4. 30-day rolling volatility over time
+
+![Stock Volatility Analysis](stock_volatility_analysis.png)

@@ -46,3 +46,5 @@ project6_marketing_funnel/
 4. Overall marketing funnel (impressions → customers)
 5. Cost Per Acquisition (CPA) by channel
 6. Spend vs revenue scatter (all channels)
+
+![Marketing Funnel Analysis](marketing_funnel_analysis.png)

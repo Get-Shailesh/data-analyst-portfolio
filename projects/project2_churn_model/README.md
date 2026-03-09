@@ -52,3 +52,5 @@ project2_churn_model/
 ## 📈 Output
 - Console: accuracy, AUC, classification report
 - `churn_analysis.png`: 6-panel chart (distribution, contract analysis, tenure, feature importance, confusion matrix, ROC curves)
+
+![Churn Analysis](churn_analysis.png)

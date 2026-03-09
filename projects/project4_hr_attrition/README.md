@@ -49,3 +49,5 @@ project4_hr_attrition/
 4. Job satisfaction vs attrition rate
 5. Monthly income distribution (boxplot)
 6. Overtime impact on attrition
+
+![HR Attrition Analysis](hr_attrition_analysis.png)

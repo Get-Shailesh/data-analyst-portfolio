@@ -56,3 +56,5 @@ project1_sales_trend/
 
 ## 📂 Dataset
 Synthetically generated to mirror real-world retail seasonality patterns. Reproducible with `numpy.random.seed(42)`.
+
+![Sales Trend Analysis](sales_trend_analysis.png)
