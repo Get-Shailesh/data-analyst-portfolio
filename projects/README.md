@@ -1,4 +1,4 @@
-# 📊 Data Analyst Portfolio — Aryan Kumar
+# 📊 Data Analyst Portfolio — Shailesh Khosare
 
 A collection of 6 end-to-end data analysis projects covering EDA, machine learning, time-series analysis, business intelligence, and marketing analytics.
 
